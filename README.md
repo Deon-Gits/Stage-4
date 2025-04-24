@@ -17,7 +17,7 @@ The diagram describes the various components and their interactions.
 ![microservice-app-example](https://user-images.githubusercontent.com/1905821/34918427-a931d84e-f952-11e7-85a0-ace34a2e8edb.png)
 
 Note: 3 different login details are provided in the .env file 
-Branch Functionality
+Branch Functionality being tested again
 ## License
 
 MIT
